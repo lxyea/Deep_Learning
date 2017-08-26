@@ -1,4 +1,5 @@
-![deep learning : Neural Networks and Deep Learning](http://imgur.com/a/2rgYw)
+![Neural Networks for Machine Learning](https://user-images.githubusercontent.com/21110541/29741101-6c274534-8a66-11e7-9e69-d3f2a362af8d.png)
+
 
 # Deep Learning
 + [x] Neural Networks and Deep Learning
@@ -8,4 +9,4 @@
 + [ ] Sequence Models
 
 ---
-*source from **Andrew Ng**'s[deep learning](https://www.coursera.org/specializations/deep-learning) course on Coursera*
+*source from **Andrew Ng**'s [Deep learning](https://www.coursera.org/specializations/deep-learning) course on Coursera*
