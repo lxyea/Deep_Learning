@@ -11,11 +11,13 @@
 
 ![structuring machine learning projects](https://user-images.githubusercontent.com/21110541/30242472-5662a950-9597-11e7-9766-dc1c5816cde2.PNG)
 
+![convolutional neural networks](https://user-images.githubusercontent.com/21110541/32508421-8cbe3448-c3ea-11e7-8743-e55c878ba0a7.PNG)
+
 # Deep Learning
 + [x] Neural Networks and Deep Learning
 + [x] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 + [x] Structuring Machine Learning Projects
-+ [ ] Convolutional Neural Networks
++ [x] Convolutional Neural Networks
 + [ ] Sequence Models
 
 # Deep Learning - deeplearning.ai
